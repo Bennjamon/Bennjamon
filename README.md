@@ -1,16 +1,19 @@
-### Hi there 👋
+```js
+export const biography = {
+  name: "Benjamín Alexis Rivas Beltrán",
+  age: 17,
+  contact: {
+    email: "benjaminrivas500@gmail.com",
+    instagram: "benja_arb",
+    discord: "Bennjamon2006_",
+  },
+  programmingSince: 2019,
+  workArea: "FullStack",
+  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "TailwindCSS", "Node", "Express"],
+};
 
-<!--
-**Bennjamon/Bennjamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+while (live) {
+	program();
+	learn();
+}
+```
