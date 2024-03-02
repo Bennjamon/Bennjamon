@@ -13,7 +13,7 @@ export const biography = {
 };
 
 while (live) {
-	program();
-	learn();
+  program();
+  learn();
 }
 ```
