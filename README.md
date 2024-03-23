@@ -1,3 +1,6 @@
+# Benjamín Alexis Rivas Beltrán
+Soy un adolescente enamorado de la informática y la programación, empecé a programar a los 10 años con Scratch y con el paso de los años he aprendido una gran cantidad de lenguajes y tecnologías, mis metas son poder vivir de esto y usar mis conocimientos para guiar a otros en el vasto mundo de la tecnología.
+
 ```js
 export const biography = {
   name: "Benjamín Alexis Rivas Beltrán",
@@ -7,7 +10,7 @@ export const biography = {
     instagram: "benja_arb",
     discord: "Bennjamon2006_",
   },
-  programmingSince: 2019,
+  codingSince: 2019,
   workArea: "FullStack",
   skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "TailwindCSS", "Node", "Express"],
 };
